@@ -1,0 +1,31 @@
+{
+
+    "employees": [
+        {
+            "first-name": "John",
+            "last-name": "Smith",
+            "occupation": "Software Engineer"
+        },
+        {
+            "first-name": "Will",
+            "last-name": "Mark",
+            "occupation": "Front-end software Developer"
+        },
+        {
+            "first-name": "Bill",
+            "last-name": "Johnson",
+            "occupation": "Toilet cleaner"
+        },
+        {
+            "first-name": "John",
+            "last-name": "Crowder",
+            "occupation": "Reflexologist"
+        },
+        {
+            "first-name": "Sean",
+            "last-name": "Penn",
+            "occupation": "Junior Web Developer"
+        }
+    ]
+
+}
